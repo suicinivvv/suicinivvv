@@ -1,17 +1,26 @@
-## Oii, fico feliz que esteja aqui. 
+## Olá, fico feliz que esteja aqui. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suicinivvv&show_icons=true&theme=nightowl )
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Cursando Análise e Desenvolvimento de Sistemas na <a href="http://usf.edu.br">Universidade São Francisco</a> em Itatiba <img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="50"></br>Ensino Médio Integrado ao Téncnico na <a href="http://rosaperrone.com.br/">ETEC Rosa Perrone Scavone</a> (Desennvolvimento de Sistemas)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> 
+</em></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suicinivvv&layout=compact&theme=nightowl)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="html" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" height="30" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="php" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="javascript" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="excel" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="photoshop" height="30" width="150" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+  <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="photo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</div>
 
- <img align="center" alt="link" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ ##
+ 
+<div> 
+  <a href="https://instagram.com/s_uiciniv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinicius.oliveiracabral7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-cabral-5a3b57260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
   
