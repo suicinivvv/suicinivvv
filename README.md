@@ -1,6 +1,6 @@
 ## Olá, fico feliz que esteja aqui. 
 
-<p><em>Engenharia de Software na <a href="http://usf.edu.br">Universidade São Francisco</a> em Itatiba <img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="50"></br>Ensino Médio Integrado ao Téncnico na <a href="http://rosaperrone.com.br/">ETEC Rosa Perrone Scavone</a> (Desenvolvimento de Sistemas)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> 
+<p><em>Cursando Engenharia de Software na <a href="http://usf.edu.br">Universidade São Francisco</a> em Itatiba <img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="50"></br>Ensino Médio Integrado ao Téncnico na <a href="http://rosaperrone.com.br/">ETEC Rosa Perrone Scavone</a> (Desenvolvimento de Sistemas)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> 
 </em></p>
 
 ##
